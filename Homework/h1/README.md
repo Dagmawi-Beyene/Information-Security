@@ -1,8 +1,8 @@
-# Homework H1 First steps
+# Homework 1
 
-## 0) Sumarize
+## 0) Summarize
 ## Article Hutchins et al 2011: Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains
-[Link to the full article](https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf "PDF document")
+[Link to article](https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf "PDF document")
 
 ### Summary
 
