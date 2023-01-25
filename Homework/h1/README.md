@@ -1,8 +1,8 @@
-# Homework H1 First steps
+# Homework 1
 
-## 0) Sumarize
+## 0) Summarize
 ## Article Hutchins et al 2011: Intelligence-Driven Computer Network Defense Informed by Analysis of Adversary Campaigns and Intrusion Kill Chains
-[Link to the full article](https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf "PDF document")
+[Link to article](https://lockheedmartin.com/content/dam/lockheed-martin/rms/documents/cyber/LM-White-Paper-Intel-Driven-Defense.pdf "PDF document")
 
 ### Summary
 
@@ -16,13 +16,13 @@ The paper also discusses the importance of using intelligence from multiple sour
 
 The stages of the Cyberspace Kill Chain are:
 
-Reconnaissance: The attacker gathers information about the target, such as IP addresses, network topology, and vulnerabilities.
-Weaponization: The attacker creates a weapon, such as a malware payload, that can be used to exploit vulnerabilities in the target.
-Delivery: The weapon is delivered to the target, often through social engineering or phishing emails.
-Exploitation: The weapon is used to exploit a vulnerability in the target, allowing the attacker to gain access to the network.
-Installation: The attacker establishes a foothold on the network, such as installing malware or creating a back door.
-Command and Control: The attacker establishes a communication channel with the malware or back door, allowing them to control the compromised system remotely.
-Actions on Objective: The attacker achieves their objective, such as stealing sensitive information or disrupting operations.
++ Reconnaissance: The attacker gathers information about the target, such as IP addresses, network topology, and vulnerabilities.
++ Weaponization: The attacker creates a weapon, such as a malware payload, that can be used to exploit vulnerabilities in the target.
++ Delivery: The weapon is delivered to the target, often through social engineering or phishing emails.
++ Exploitation: The weapon is used to exploit a vulnerability in the target, allowing the attacker to gain access to the network.
++ Installation: The attacker establishes a foothold on the network, such as installing malware or creating a back door.
++ Command and Control: The attacker establishes a communication channel with the malware or back door, allowing them to control the compromised system remotely.
++ Actions on Objective: The attacker achieves their objective, such as stealing sensitive information or disrupting operations.
 
 By understanding the stages of the kill chain, organizations can develop and implement countermeasures at each stage to prevent or disrupt the attack. These countermeasures can include technical controls, such as firewalls and intrusion prevention systems, as well as non-technical controls, such as employee training and incident response plans.
 
@@ -67,8 +67,8 @@ These are just a few examples of the many command-line basics that are available
 
 I connected with Putty to the host bandit.labs.overthewire.org on the port 2220 with the provided username and same password: bandit0
 
-![Screenshot 1](screenshots/1.png)
-![Screenshot 2](screenshots/2.png)
+![Screenshot 1](screenshot/1.png)
+![Screenshot 2](screenshot/2.png)
 
 
 ### Level 1
