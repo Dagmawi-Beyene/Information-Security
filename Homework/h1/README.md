@@ -67,8 +67,8 @@ These are just a few examples of the many command-line basics that are available
 
 I connected with Putty to the host bandit.labs.overthewire.org on the port 2220 with the provided username and same password: bandit0
 
-![Screenshot 1](screenshots/1.png)
-![Screenshot 2](screenshots/2.png)
+![Screenshot 1](screenshot/1.png)
+![Screenshot 2](screenshot/2.png)
 
 
 ### Level 1
